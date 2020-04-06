@@ -1,2 +1,7 @@
 This is Fifth Commit
+<<<<<<< HEAD
 Hello I have Modified FIFTH Commit in mncl
+=======
+
+HELLO WORLD
+>>>>>>> gdk
